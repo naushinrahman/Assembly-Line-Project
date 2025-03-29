@@ -1,0 +1,10 @@
+// Name: Naushin Rahman
+// Seneca Student ID: 144079225
+// Seneca email: nrahman30@myseneca.ca
+// Date of completion: 12/3/2023
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+
+	This project was very difficult due to the nature of the instructions being unclear and because there were so many modules that were involved. It was hard to conceptualize how workstations and stations and customer orders are all intertwined with each other and how they connect to the line manager. 
