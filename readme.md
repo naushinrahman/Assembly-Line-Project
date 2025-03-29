@@ -12,10 +12,9 @@ Clone the repository in Visual Studio</br>
 https://learn.microsoft.com/en-us/visualstudio/get-started/tutorial-open-project-from-repo?view=vs-2022
 
 ## Setting Command Line Arguments
-In Visual Studio, click "Project" and scroll to Properties
-
-In the popup, go to "Configuration Properties" then "Debugging"</br>
-Click "Command Arguments" and type the arguments in this order and click "Apply"
+In Visual Studio, click **Project** and scroll to Properties</br>
+In the popup, go to **Configuration Properties** then **Debugging**</br>
+Click **Command Arguments** and type the arguments in this order and click **Apply**</br>
 ![alt text](image.png)
 
 ### Build solution and then Start without Debugging
