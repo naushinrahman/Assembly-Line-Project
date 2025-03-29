@@ -19,5 +19,3 @@ Click "Command Arguments" and type the arguments in this order and click "Apply"
 ![alt text](image.png)
 
 ### Build solution and then Start without Debugging
-
-# Features
