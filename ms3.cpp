@@ -51,6 +51,7 @@ int main(int argc, char** argv)
 		cout << "========================================" << endl;
 		cout << "=         Stations (summary)           =" << endl;
 		cout << "========================================" << endl;
+		cout << "Id  | Item Name      |Serial #|" << endl;
 		for (const auto* station : theStations)
 			station->Station::display(cout, false);
 		cout << endl << endl;
@@ -58,6 +59,7 @@ int main(int argc, char** argv)
 		cout << "========================================" << endl;
 		cout << "=          Stations (full)             =" << endl;
 		cout << "========================================" << endl;
+		cout << "Id  | Item Name      |Serial #| Qty  | Description" << endl;
 		for (const auto* station : theStations)
 			station->Station::display(cout, true);
 		cout << endl << endl;
@@ -129,6 +131,7 @@ int main(int argc, char** argv)
 	cout << "========================================" << endl;
 	cout << "=          Inventory (full)            =" << endl;
 	cout << "========================================" << endl;
+	cout << "Id  | Item Name      |Serial #| Qty  | Description" << endl;
 	for (const Station* theItem : theStations)
 		theItem->display(cout, true);
 	cout << endl;
